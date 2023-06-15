@@ -1,0 +1,15 @@
+legend {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  text-align: center;
+  background-color: gold
+}
+
+body {
+  background-color: aquamarine;
+  font-size: 24px;
+}
+
+fieldset {
+  background-color: beige;
+}
